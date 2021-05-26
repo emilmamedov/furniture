@@ -754,7 +754,7 @@ nav ul li::after{
 }
 
 .footer_container{
-    max-width: 815px;
+    max-width: 995px;
     padding: 50px 50px 0 50px;
     background-color: #1E2E36;
     display: flex;
